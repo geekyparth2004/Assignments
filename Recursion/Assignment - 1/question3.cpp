@@ -14,5 +14,5 @@ int main()
    int n; 
    cin>>n; 
 
-   power(n); 
+   cout<<power(n); 
 }
